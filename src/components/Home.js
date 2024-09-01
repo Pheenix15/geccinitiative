@@ -276,7 +276,7 @@ const Home = () => {
                     </div>
                 </section>
 
-                <section className="upcoming-event-section" style={{display: "block"}}>
+                <section className="upcoming-event-section" style={{display: "none"}}>
                     <div className="upcoming-event">
                         <h4>Upcoming Event!!!</h4>
                         <h5>Environmental-STEM mini-grant</h5>
