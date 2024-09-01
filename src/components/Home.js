@@ -162,7 +162,7 @@ const Home = () => {
                         <Link to="./Volunteer" className="btn volunteer-btn"><Button>VOLUNTEER</Button></Link>
                     </div>
                 </section>
-
+                {/* PARTNERS LOGOS */}
                 <section className="partners-section">
                     <div className="partners">
                         <h4 className='heading text-green'>OUR PARTNERS</h4>
@@ -175,6 +175,8 @@ const Home = () => {
                                 <img src="../img/logos/logo4.png" alt="Logo of the Movement trust" />
                                 <img src="../img/logos/logo5.png" alt="Logo of the Nigerian Climate Justice Alliance" />
                                 <img src="../img/logos/logo6.png" alt="Logo of the Nigerian Conservation Foundation" />
+                                <img src="../img/logos/Geep.png" alt="Logo of the Global Environmental Education Partnership" />
+                                <img src="../img/logos/naaee.png" alt="Logo of the North American Association of Environmental Educators" />
                             </div>
                             <div className="partners-logos">
                                 <img src="../img/logos/logo1.png" alt='Logo of climate 2025' />
@@ -184,6 +186,8 @@ const Home = () => {
                                 <img src="../img/logos/logo4.png" alt="Logo of the Movement trust" />
                                 <img src="../img/logos/logo5.png" alt="Logo of the Nigerian Climate Justice Alliance" />
                                 <img src="../img/logos/logo6.png" alt="Logo of the Nigerian Conservation Foundation" />
+                                <img src="../img/logos/Geep.png" alt="Logo of the Global Environmental Education Partnership" />
+                                <img src="../img/logos/naaee.png" alt="Logo of the North American Association of Environmental Educators" />
                             </div>
                             <div className="partners-logos">
                                 <img src="../img/logos/logo1.png" alt='Logo of climate 2025' />
@@ -193,6 +197,8 @@ const Home = () => {
                                 <img src="../img/logos/logo4.png" alt="Logo of the Movement trust" />
                                 <img src="../img/logos/logo5.png" alt="Logo of the Nigerian Climate Justice Alliance" />
                                 <img src="../img/logos/logo6.png" alt="Logo of the Nigerian Conservation Foundation" />
+                                <img src="../img/logos/Geep.png" alt="Logo of the Global Environmental Education Partnership" />
+                                <img src="../img/logos/naaee.png" alt="Logo of the North American Association of Environmental Educators" />
                             </div>
                         </div>
                     </div>

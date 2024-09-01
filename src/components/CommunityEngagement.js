@@ -16,7 +16,6 @@ const CommunityEngagement = () => {
                                 <div className="project-array-img"><img src={communityEngagementArray.image} alt={communityEngagementArray.title} /></div>
                                 <div className="project-array-info">
                                     <h5>{communityEngagementArray.title}</h5>
-                                    <p><span className="bold">Date:</span>{communityEngagementArray.date}</p>
                                 </div>
                             </div>
                             

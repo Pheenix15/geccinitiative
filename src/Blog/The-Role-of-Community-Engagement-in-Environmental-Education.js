@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProjectArticle.css'
+import '../Projects/ProjectArticle.css'
 
 const TheRoleOfCommunityEngagementInEnvironmentalEducation = () => {
         return (

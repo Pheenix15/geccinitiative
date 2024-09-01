@@ -221,7 +221,38 @@
 }
 /**********GALLERY SECTION***************/
 
+/***********EVENTS APPLICATION PAGE****************/
 
+/***********YOUTH POLICY 2024****************/
+.youth-policy-hero{
+    background-image:url(../img/Events/youth-policy.jpg);
+}
+
+.application-txt{
+    display: flex;
+    flex-direction: column;
+    padding: 2em 1em;
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.gecci-link{
+    align-self: center;
+    color: rgb(13, 80, 9, 1);
+    margin-top: 20px;
+}
+
+a .gecci-link{
+    text-decoration: solid;
+}
+
+/*****CLIMATE BOOTCAMP 2.0 APPLICATION******/
+
+.event-application-hero-content{
+    background-image:url(../img/Events/Bootcamp1.jpg);
+}
+
+/***********EVENTS APPLICATION PAGE END****************/
 
 @media (max-width: 1041px) {
     .side-bar{

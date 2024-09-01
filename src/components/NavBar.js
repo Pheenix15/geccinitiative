@@ -77,53 +77,53 @@ class NavBar extends Component {
                             <button type="button" className="close-menu-btn" onClick={this.toggleMenu}></button>
                         </div>
                         <ul>
-                            <li><Link to="/">HOME</Link></li>
+                            <li><Link to="/">Home</Link></li>
                             <li className={`dropdown who-we-are ${activeDropdowns.includes('who-we-are') ? 'active' : ''}`}>
-                                <Link to="#" onClick={(e) => this.toggleDropdown('who-we-are', e)}>WHO WE ARE</Link>
+                                <Link to="#" onClick={(e) => this.toggleDropdown('who-we-are', e)}>Who We Are</Link>
                                 <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('who-we-are', e)}></i>
                                 <ul className="tab">
-                                    <li><Link to="#about"><span>ABOUT US</span></Link></li>
-                                    <li><Link to="/Team"><span>OUR TEAM</span></Link></li>
+                                    <li><Link to="#about"><span>About Us</span></Link></li>
+                                    <li><Link to="/Team"><span>Our Team</span></Link></li>
                                 </ul>
                             </li>
                             {/* PROJECT TAB */}
                             <li className={`dropdown project-tab ${activeDropdowns.includes('projects') ? 'active' : ''}`}>
-                                <Link to="#" onClick={(e) => this.toggleDropdown('projects', e)}>PROJECTS</Link>
+                                <Link to="#" onClick={(e) => this.toggleDropdown('projects', e)}>Projects</Link>
                                 <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('projects', e)}></i>
                                 <ul className="tab">
                                     {/* ECOSYSTEM RESTORATION TAB */}
-                                    <li className="sub-drodown dropdown"><Link to="/Projects/Eco-Restoration-for-Climate-Action"><span>ECOSYSTEM RESTORATION</span></Link></li>
+                                    <li className="sub-drodown dropdown"><Link to="/Projects/Eco-Restoration-for-Climate-Action"><span>Ecosystem Restoration</span></Link></li>
                                     {/* ENVIRONMENTAL EDUCATION TAB */}
                                     <li className={`dropdown ${activeDropdowns.includes('env-education') ? 'active' : ''}`}>
-                                        <Link to="Environmental-Education" onClick={(e) => this.toggleDropdown('env-education', e, true)}><span>ENVIRONMENTAL EDUCATION</span></Link>
+                                        <Link to="Environmental-Education" onClick={(e) => this.toggleDropdown('env-education', e, true)}><span>Environmental Education</span></Link>
                                         <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('env-education', e, true)}></i>
                                         <ul className="tab tab-right">
-                                            <li className="dropdown"><Link to="/Projects/WorldForestDay-2022"><span>WORLD FOREST DAY</span></Link></li>
-                                            <li className="dropdown"><Link to="/Projects/WorldEnvironmentDay-2024"><span>WORLD ENVIRONMENT DAY</span></Link></li>
-                                            <li className="dropdown"><Link to="/Projects/WorldEarthDay-2024"><span>WORLD EARTH DAY</span></Link></li>
+                                            <li className="dropdown"><Link to="/Projects/WorldForestDay-2022"><span>World Forest Day</span></Link></li>
+                                            <li className="dropdown"><Link to="/Projects/WorldEnvironmentDay-2024"><span>World Environment Day</span></Link></li>
+                                            <li className="dropdown"><Link to="/Projects/WorldEarthDay-2024"><span>World Earth Day</span></Link></li>
                                         </ul>
                                     </li>
-                                    <li className="dropdown"><Link to="/CommunityEngagement"><span>COMMUNITY ENGAGEMENT</span></Link></li>
-                                    <li className="dropdown"><Link to="/Nature-Lab-Project"><span>NATURE LAB PROJECT</span></Link></li>
-                                    <li className="dropdown"><Link to="/Projects/GreenHangout"><span>GREEN HANGOUT</span></Link></li>
-                                    <li className="dropdown"><Link to="/Climate-Bootcamp"><span>CLIMATE BOOTCAMP</span></Link></li>
-                                    <li className="dropdown"><Link to="/Projects/YouthClimatePolicy"><span>YOUTH CLIMATE POLICY TRAINING</span></Link></li>
+                                    <li className="dropdown"><Link to="/CommunityEngagement"><span>Community Engagement</span></Link></li>
+                                    <li className="dropdown"><Link to="/Nature-Lab-Project"><span>Nature Lab Project</span></Link></li>
+                                    <li className="dropdown"><Link to="/Projects/GreenHangout"><span>Green Hangout</span></Link></li>
+                                    <li className="dropdown"><Link to="/Climate-Bootcamp"><span>Climate Bootcamp</span></Link></li>
+                                    <li className="dropdown"><Link to="/Projects/YouthClimatePolicy"><span>Youth Climate Policy Training</span></Link></li>
                                 </ul>
                             </li>
-                            <li><Link to="./blog">BLOG</Link></li>
+                            <li><Link to="./blog">Blog</Link></li>
                             <li className={`dropdown get-involved ${activeDropdowns.includes('get-involved') ? 'active' : ''}`}>
-                                <Link to="#" onClick={(e) => this.toggleDropdown('get-involved', e)}>GET INVOLVED</Link>
+                                <Link to="#" onClick={(e) => this.toggleDropdown('get-involved', e)}>Get Involved</Link>
                                 <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('get-involved', e)}></i>
                                 <ul className="tab">
-                                    <li><Link to="/Membership"><span>BECOME A MEMBER</span></Link></li>
-                                    <li><Link to="/Volunteer"><span>VOLUNTEER</span></Link></li>
-                                    <li><Link to="/Events"><span>EVENTS</span></Link></li>
+                                    <li><Link to="/Membership"><span>Become a Member</span></Link></li>
+                                    <li><Link to="/Volunteer"><span>Volunteer</span></Link></li>
+                                    <li><Link to="/Events"><span>Events</span></Link></li>
                                 </ul>
                             </li>
-                            <li><Link to="/Contact">CONTACT</Link></li>
+                            <li><Link to="/Contact">Contact</Link></li>
                             <button type="button" className="nav-btn nav-donate-btn">
                                 <a href="https://flutterwave.com/donate/fopgfyqstegl" target="_blank" rel="noopener noreferrer">
-                                    <span aria-hidden="true"></span>DONATE
+                                    <span aria-hidden="true"></span>Donate
                                 </a>
                             </button>
                         </ul>

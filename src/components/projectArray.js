@@ -55,28 +55,28 @@ export const sideBarProjectArray = [
         id:0,
         title: 'Anambra Climate Bootcamp 2023',
         image: '../img/InternationalDayOfForests/IDF 2.jpg',
-        url: '../Projects/',
+        url: '../Projects/ClimateBootcamp-2023',
     },
 
     {
         id:1,
         title: 'Anambra Climate Bootcamp 2024',
         image: '../img/InternationalDayOfForests/IDF 2.jpg',
-        url: '../Projects/',
+        url: '../Projects/ClimateBootcamp-2024',
     },
 
     {
         id:2,
         title: 'Eco-Restoration for Climate Action',
         image: './Eco-Restoration-for-Climate-Action',
-        url: '../Projects/',
+        url: '../Projects/Eco-Restoration-for-Climate-Action',
     },
 
     {
         id:3,
         title: 'Ebenebe Agriculture Empowerment Programme',
         image: '../img/InternationalDayOfForests/IDF 2.jpg',
-        url: '../Projects/',
+        url: '../Projects/Ebenebe-Agriculture-Empowerment-Programme',
     },
 
     {
@@ -112,35 +112,35 @@ export const sideBarProjectArray = [
         id:9,
         title: 'Tree Nursery Project',
         image: '../img/NLP/NLP-2.jpg',
-        url: '../Projects/',
+        url: '../Projects/Tree-Nursery-project',
     },
 
     {
         id:10,
         title: 'Tree Planting Project',
         image: '../img/GreenHangout/project-2.jpg',
-        url: '../Projects/',
+        url: '../Projects/Tree-planting-project',
     },
 
     {
         id:11,
         title: 'World Earth Day 2024',
         image: '../img/NLP/NLP-2.jpg',
-        url: '../Projects/',
+        url: '../Projects/WoldEarthDay-2024',
     },
 
     {
         id:12,
         title: 'World Environment Day 2024',
         image: '../img/GreenHangout/project-2.jpg',
-        url: '../Projects/',
+        url: '../Projects/WorldEnvironmentDay-2024',
     },
 
     {
         id:13,
-        title: 'World Forestry Day 2022',
+        title: 'World Forest Day 2022',
         image: '../img/GreenHangout/project-2.jpg',
-        url: '../Projects/',
+        url: '../Projects/WorldForestDay-2022',
     },
 
 ];
@@ -226,6 +226,40 @@ export const natureLabProjectArray = [
         image: '../img/Projects/Tree-planting.jpg',
         url: '../Projects/Tree-planting-project',
     },
+]
+
+export const blogArray = [
+    {
+        id:1,
+        title: 'The Concept of Environmental Education',
+        image: '../img/Blog/CCE-sq.jpg',
+        url: '../Blog/Concept-of-Environmental-Education',
+    },
+
+    {
+        id:2,
+        title: 'The Role of Community Engagement in Environmental Education',
+        image: '../img/Blog/EE.jpeg',
+        url: '../Blog/The-Role-of-Community-Engagement-in-Environmental-Education',
+    }
+]
+
+export const eventsArray = [
+    {
+        id:1,
+        title: 'GECCI Youth Policy Training',
+        image: '../img/Events/event-youth-policy.jpg',
+        url: '../Events/Youth-Policy-Training',
+        date: '09/02/2024 - 10/02/2024'
+    },
+
+    {
+        id:2,
+        title: 'Environmental-STEM mini-grant',
+        image: '../img/Events/Bootcamp1.jpg',
+        url: '../Events/Environmental-STEM-mini-grant-application',
+        date: '24/07/2024'
+    }
 ]
 
 export default projectArray;

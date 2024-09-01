@@ -29,6 +29,12 @@ import NatureLabProject from './components/Nature-Lab-Project';
 import TreeNurseryProject from './Projects/Tree-Nursery-project';
 import TreePlantingProject from './Projects/Tree-planting-project';
 import YouthClimatePolicy from './Projects/YouthClimatePolicy'
+import Blogs from './components/Blog';
+import ConceptOfEnvironmentalEducation from './Blog/Concept-of-Environmental-Education';
+import TheRoleOfCommunityEngagementInEnvironmentalEducation from './Blog/The-Role-of-Community-Engagement-in-Environmental-Education';
+import Events from './components/Events';
+import YouthPolicyTraining from './Events/Youth-Policy-Training';
+import EnvironmentalStemMiniGrantApplication from './Events/Environmental-STEM-mini-grant-application';
 
 function App() {
   return (
@@ -45,6 +51,8 @@ function App() {
         <Route path='/Nature-Lab-Project' Component={NatureLabProject} />
         <Route path='/Projects/ClimateBootcamp-2023' Component={ClimateBootcamp2023} />
         <Route path='/Projects/ClimateBootcamp-2024' Component={ClimateBootcamp2024} />
+        <Route path='/blog' Component={Blogs} />
+        <Route path='/Events' Component={Events} />
         <Route path='/Membership' Component={Membership} />
         <Route path='/Volunteer' Component={Volunteer} />
         <Route path='/Projects/Ebenebe-Agriculture-Empowerment-Programme' Component={EbenebeAgriculturalEmpowermentProgramme}/>
@@ -58,6 +66,10 @@ function App() {
         <Route path='/Projects/Tree-Nursery-project' Component={TreeNurseryProject} />
         <Route path='/Projects/Tree-planting-project' Component={TreePlantingProject} />
         <Route path='/Projects/YouthClimatePolicy' Component={YouthClimatePolicy} />
+        <Route path='/Blog/Concept-of-Environmental-Education' Component={ConceptOfEnvironmentalEducation} />
+        <Route path='/Blog/The-Role-of-Community-Engagement-in-Environmental-Education' Component={TheRoleOfCommunityEngagementInEnvironmentalEducation} />
+        <Route path='/Events/Youth-Policy-Training' Component={YouthPolicyTraining} />
+        <Route path='/Events/Environmental-STEM-mini-grant-application' Component={EnvironmentalStemMiniGrantApplication} />
       </Routes>
       <Footer />
     </div>
