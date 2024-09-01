@@ -306,7 +306,7 @@ const Home = () => {
                                 <div className="News-box">
                                     <img src="../img/Ebenebe/eb-4.jpg" alt="Ebenebe farmers with GECCI Team" />
                                     <div className="News-content">
-                                        <div className="News-Date">17 JAN</div>
+                                        <div className="News-Date text-white">17 JAN</div>
                                         <p>Experts Charge Anambra Farmers On Tree Planting to Mitigate Climate Effects On Crops</p>
                                     </div>
                                 </div>
@@ -316,7 +316,7 @@ const Home = () => {
                                 <div className="News-box">
                                     <img src="../img/Tree-planting.jpg" alt="young seedling" className="News-img" />
                                     <div className="News-content">
-                                        <div className="News-Date">18 JAN</div>
+                                        <div className="News-Date text-white">18 JAN</div>
                                         <p>How trees can help tackle climate change_ Experts</p>
                                     </div>
                                 </div>
