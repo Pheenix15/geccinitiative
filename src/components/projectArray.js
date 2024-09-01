@@ -126,7 +126,7 @@ export const sideBarProjectArray = [
         id:11,
         title: 'World Earth Day 2024',
         image: '../img/NLP/NLP-2.jpg',
-        url: '../Projects/WoldEarthDay-2024',
+        url: '../Projects/WorldEarthDay-2024',
     },
 
     {
