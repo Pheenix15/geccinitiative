@@ -296,7 +296,7 @@ const Home = () => {
                                 <div className="News-box">
                                     <img src="../img/News-img-2.jpg" alt="News" />
                                     <div className="News-content">
-                                        <div className="News-Date">16 JAN</div>
+                                        <div className="News-Date text-white">16 JAN</div>
                                         <p>Nigeria must be More Deliberate in its Climate Action in 2024</p>
                                     </div>
                                 </div>
