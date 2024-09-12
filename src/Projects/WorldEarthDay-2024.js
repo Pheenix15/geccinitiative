@@ -56,7 +56,7 @@ const WorldEarthDay2024 = () => {
 
                                     </div>                       
                                     <div className="article-gallary">
-                                        <h4 className='heading'>Gallary</h4>
+                                        <h4 className='heading'>Gallery</h4>
                                         <div className="swiper">
                                             <div className="slide-content">
                                                 <div className="image-list swiper-wrapper">

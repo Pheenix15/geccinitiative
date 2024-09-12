@@ -77,7 +77,7 @@ const EcoRestorationForClimateAction = () => {
                                         </p>
                                     </div>                       
                                     {/* <div className="article-gallary">
-                                        <h2>Gallary</h2>
+                                        <h2>Gallery</h2>
                                         <div className="swiper">
                                             <div className="slide-content">
                                                 <div className="image-list swiper-wrapper">

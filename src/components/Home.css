@@ -54,37 +54,42 @@
     margin-top: 0;
 }
 
-.hero-cta{
-    animation: fadeIn 2.5s ease-in;
-}
-/* .about-cta{
-    background-color: rgb(13, 80, 9, 1);
-    margin-left: 5px;
-    color: #fff;
-    border: none;
+.hero-btn{
+    display: flex;
+    align-items: center;
 }
 
-.about-cta:hover{
-    text-decoration: none;
-    background-color: transparent;
-    border: 2px solid rgba(13, 80, 9, 1);
-    color: #ffffff;
-    transition: 0.5s ease-out;
-  }
+.hero-cta{
+    border: 2px solid var(--mainGreen);
+    padding: 0.5em;
+    font-size: 1em;
+    animation: fadeIn 2.5s ease-in;
+}
+
+.about-cta{
+    background-color: var(--mainGreen);
+}
+
+@media (hover: hover ) and (pointer: fine) {
+    .about-cta:hover{
+        background-color: transparent;
+        transition: 0.5s ease-out;
+    }
+
+    .contact-cta:hover{
+        background-color: var(--mainGreen);
+        transition: 0.5s ease-in;
+    }
+}
 
 .contact-cta{
     background-color: transparent;
-    margin-left: 5px;
-    border: 2px solid rgba(13, 80, 9, 1);
-    color: #fff;
+    margin-left: 10px;
 }
-.contact-cta:hover{
-    background-color: rgb(13, 80, 9, 1);
-    margin-left: 5px;
-    color: #fff;
-    border: none;
-    transition: 0.5s ease-in;
-} */
+
+/* 
+
+ */
 /* HERO ICON OVERLAY */
 .subSection{
     margin: 0 15em;
@@ -563,8 +568,7 @@
     }
     
     .contact-cta{
-        background-color: transparent;
-        margin-left: 5px;
+        margin-left: 10px;
     }
 
     .btn{

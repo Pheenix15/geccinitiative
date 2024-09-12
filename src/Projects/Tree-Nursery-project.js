@@ -42,13 +42,13 @@ const TreeNurseryProject = () => {
                                         </p>
 
                                         <div className="article-img erca-seedling-img">
-                                            <img src="../img/NLP/NLP-2.jpg"  alt="children tending to seedling in polypots" />
+                                            <img src="../img/NLP/NLP-5.jpg"  alt="children tending to seedling in polypots" />
                                         </div>
 
                                         
                                     </div>                       
                                     <div className="article-gallary">
-                                        <h2>Gallary</h2>
+                                        <h2>Gallery</h2>
                                         <div className="swiper">
                                             <div className="slide-content">
                                                 <div className="image-list swiper-wrapper">

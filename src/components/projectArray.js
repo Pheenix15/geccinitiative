@@ -11,7 +11,7 @@ export const projectArray = [
         id:1,
         title: 'Environmental Education',
         image: '../img/Projects/EnvironmentDay.jpg',
-        url: '/'
+        url: '/Environmental-Education'
     },
 
     {
@@ -25,7 +25,7 @@ export const projectArray = [
         id:3,
         title: 'Nature Lab Project',
         image: '../img/Projects/NLP-1.jpg',
-        url: '/'
+        url: '/Nature-Lab-Project'
     },
 
     {
@@ -39,14 +39,14 @@ export const projectArray = [
         id:5,
         title: 'Climate Bootcamp',
         image: '../img/Projects/CB-2024-5.jpg',
-        url: '/ClimateBootcamp-2024'
+        url: '/Climate-Bootcamp'
     },
 
     {
         id:6,
         title: 'Youth Climate Policy Training',
         image: '../img/Projects/ycpt-2.jpg',
-        url: '/'
+        url: '/Projects/YouthClimatePolicy'
     }
 ];
 
@@ -83,7 +83,7 @@ export const sideBarProjectArray = [
         id:4,
         title: 'Ebenebe Climate Resiliance Workshop',
         image: '../img/Ebenebe/eb-2.jpg',
-        url: '../Projects/Ebenebe-Climate-Resiliance-Workshop',
+        url: '../Projects/Ebenebe-Climate-Resilience-Workshop',
     },
 
     {

@@ -82,7 +82,7 @@ class NavBar extends Component {
                                 <Link to="#" onClick={(e) => this.toggleDropdown('who-we-are', e)}>Who We Are</Link>
                                 <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('who-we-are', e)}></i>
                                 <ul className="tab">
-                                    <li><Link to="#about"><span>About Us</span></Link></li>
+                                    <li><a href="/#about"><span>About Us</span></a></li>
                                     <li><Link to="/Team"><span>Our Team</span></Link></li>
                                 </ul>
                             </li>
@@ -95,7 +95,7 @@ class NavBar extends Component {
                                     <li className="sub-drodown dropdown"><Link to="/Projects/Eco-Restoration-for-Climate-Action"><span>Ecosystem Restoration</span></Link></li>
                                     {/* ENVIRONMENTAL EDUCATION TAB */}
                                     <li className={`dropdown ${activeDropdowns.includes('env-education') ? 'active' : ''}`}>
-                                        <Link to="Environmental-Education" onClick={(e) => this.toggleDropdown('env-education', e, true)}><span>Environmental Education</span></Link>
+                                        <Link to="/Environmental-Education" onClick={(e) => this.toggleDropdown('env-education', e, true)}><span>Environmental Education</span></Link>
                                         <i className="fa fa-angle-down" onClick={(e) => this.toggleDropdown('env-education', e, true)}></i>
                                         <ul className="tab tab-right">
                                             <li className="dropdown"><Link to="/Projects/WorldForestDay-2022"><span>World Forest Day</span></Link></li>

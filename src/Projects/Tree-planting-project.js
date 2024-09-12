@@ -36,7 +36,7 @@ const TreePlantingProject = () => {
                             <div className="article">
                                 <div className="article-content">                  
                                     <div className="article-gallary">
-                                        <h2>Gallary</h2>
+                                        <h2>Gallery</h2>
 
                                         <h3>IMAGES OF TREE PLANTING IN ST. JOHN OF GOD SECONDARY SCHOOL, AWKA</h3>
                                         <div className="swiper">
@@ -52,7 +52,8 @@ const TreePlantingProject = () => {
                                             <div className="swiper-button-prev swiper-btn"></div>
                                             <div className="swiper-pagination"></div>
                                         </div>
-
+                                    </div>
+                                    <div className="article-gallary">
                                         <h3>IMAGES OF TREE PLANTING IN ST. JOSEPH NURSERY AND PRIMARY SCHOOL, NNEWI</h3>
                                         <div className="swiper">
                                             <div className="slide-content">

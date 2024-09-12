@@ -56,7 +56,7 @@ const EbenebeAgriculturalEmpowermentProgramme = () => {
                                         </p>
                                     </div>                       
                                     <div className="article-gallary">
-                                        <h2>Gallary</h2>
+                                        <h2>Gallery</h2>
                                         <div class="swiper">
                                             <div class="slide-content">
                                                 <div class="image-list swiper-wrapper">

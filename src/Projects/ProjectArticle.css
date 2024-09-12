@@ -109,6 +109,10 @@
     left: 10%;
 }
 
+.article-video{
+    width: 100%;
+}
+
 .article-video iframe{
     aspect-ratio: 16 / 9;
     width: 100%;

@@ -42,8 +42,10 @@ const Home = () => {
                 <section className="hero">
                     <div className="hero-content slideUp">
                     <h2 className="heading">WE DANCE TO THE TUNE OF THE ENVIRONMENT</h2>
-                    <Link to="#about" class=" hero-cta about-cta"><Button>KNOW MORE</Button></Link>
-                    <Link to="./Contact" class=" hero-cta contact-cta"><Button>GET IN TOUCH</Button></Link>
+                    <div className="hero-btn">
+                        <a href="/#about" class=" hero-cta about-cta text-white">KNOW MORE</a>
+                        <a href="./Contact" class=" hero-cta contact-cta text-white">GET IN TOUCH</a>
+                    </div>
                     </div>
                 </section>
                 {/* HERO ICON OVERLAY */}

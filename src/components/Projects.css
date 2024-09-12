@@ -1,3 +1,34 @@
+
+.main-project-hero{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(13, 80, 9, 0.3);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 50vh;
+}
+
+/* PROJECT HEROS */
+
+.climate-bootcamp{
+    background-image: url(../img/ClimateBootcamp/acb-1.jpg);
+}
+
+.community-engagement{
+    background-image: url(../img/EAEP/EAEP-1.jpg);
+}
+
+.environmental-education{
+    background-image:url(../img/WorldEarthDay2024/WED24-5.jpg);
+}
+
+/* PROJECT HEROS ENDS */
+
 .gecci-main-projects{
     display: flex;
     flex-direction: column;
