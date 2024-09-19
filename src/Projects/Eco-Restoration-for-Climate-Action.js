@@ -42,10 +42,10 @@ const EcoRestorationForClimateAction = () => {
                                             <br />
                                             <br />
                                             The goal is to bring back the degraded landscape, contribute to the biological richness in the area, contribute to Nigeria’s National Determined Contribution (NDC) to improve forest management and forest restoration with a combined mitigation potential of 89Mt CO2e/year, and contribute to promoting meaningful participation of youth in ecosystem restoration of Nigeria NDCs Awareness and Advocacy key project area. The project has three components:
-                                            <ol>
-                                                <li>Establishment and nursing of 6000 indigenous forest seedlings.</li>
-                                                <li>Restoration of 15 hectares of NAU degraded forest.</li>
-                                                <li>Capacity Building of Stakeholders in Ecosystem Restoration.</li>
+                                            <ol role= 'list'>
+                                                <li role = 'listitem'>Establishment and nursing of 6000 indigenous forest seedlings.</li>
+                                                <li role = 'listitem'>Restoration of 15 hectares of NAU degraded forest.</li>
+                                                <li role = 'listitem'>Capacity Building of Stakeholders in Ecosystem Restoration.</li>
                                             </ol>
                                         </p>
 

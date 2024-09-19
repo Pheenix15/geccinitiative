@@ -33,14 +33,14 @@ const TheRoleOfCommunityEngagementInEnvironmentalEducation = () => {
                                         
                                         <p>
                                             Several factors can undermine the sustainability of restoration efforts:
-                                            <ol>
-                                                <li>
+                                            <ol role = 'list'>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Power Imbalances:</span> Restoration projects often prioritize scientific knowledge and top-down decision-making sidelining local communities and their traditional knowledge. This can lead to unequal power dynamics and resistance from those who feel excluded.</p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Impact on Livelihoods:</span> Projects that disregard the economic and social needs of local communities can create opposition. If restoration efforts negatively affect local livelihoods by imposing restrictions or ignoring economic realities, they are less likely to succeed. </p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Misunderstanding Local Communities:</span> Restoration projects sometimes operate on assumptions that simplify or mischaracterize local communities, viewing them either as destroyers of nature or as passive beneficiaries. This can result in interventions that are inappropriate or ineffective.</p>
                                                 </li>
                                             </ol>
@@ -51,25 +51,25 @@ const TheRoleOfCommunityEngagementInEnvironmentalEducation = () => {
                                         <p>
                                             To overcome these challenges, several strategies can be employed to foster better community involvement in restoration projects: 
                                             <ol>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Inclusive Participation:</span>  Actively involving communities in all stages of restoration—from planning to implementation and monitoring—ensures that their needs and knowledge are incorporated, leading to greater ownership and support. </p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Supporting Livelihoods:</span> Restoration efforts should aim to enhance, not undermine, local livelihoods. By aligning ecological goals with economic benefits for the community, projects can achieve more sustainable outcomes. </p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Respecting Local Knowledge:</span> Acknowledging and integrating local values and traditional ecological knowledge can strengthen the connection between communities and their environment, enhancing the success of restoration initiatives.</p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Promoting Learning:</span> Encouraging continuous learning among all stakeholders, including scientists and community members, helps build a deeper understanding of the interconnectedness of social and ecological systems, leading to more adaptive and resilient restoration practices. </p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Environmental Education:</span> Providing education about the local ecosystem can foster a stronger appreciation and commitment to restoration efforts among community members, ensuring the sustainability of these initiatives.</p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Strengthening Local Institutions:</span> Supporting local institutions helps bridge the gap between human and ecological systems, facilitating more effective and sustainable restoration efforts.</p>
                                                 </li>
-                                                <li>
+                                                <li role = 'listitem'>
                                                     <p><span className="bold">Systematic Approaches:</span> Utilizing comprehensive, systematic approaches to understand local social-ecological systems can improve the design and implementation of restoration projects, making them more effective and sustainable. 
                                                     </p>
                                                 </li>

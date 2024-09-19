@@ -69,10 +69,10 @@ const EbenebeClimateResilienceWorkshop = () => {
                                             <br />
                                             <br />
                                             <span>Here are few bullet points of the outcomes and achievements from this program:</span>
-                                            <ol className="li-size prjt-txt-ol">
-                                                <li>Increased awareness and improved knowledge of climate issues.</li>
-                                                <li> Strengthened community bonds and formation of a committee for climate resilience actions in Ebenebe.</li>
-                                                <li> Increased motivation and participants' enthusiasm to implement acquired knowledge and share it with others.</li>
+                                            <ol className="li-size prjt-txt-ol" role = 'list'>
+                                                <li role = 'listitem'>Increased awareness and improved knowledge of climate issues.</li>
+                                                <li role = 'listitem'> Strengthened community bonds and formation of a committee for climate resilience actions in Ebenebe.</li>
+                                                <li role = 'listitem'> Increased motivation and participants' enthusiasm to implement acquired knowledge and share it with others.</li>
                                             </ol> 
                                             The workshop in Ebenebe marked a significant stride toward fostering climate resilience in Ebenebe community, and this program can be strategically modified and implemented in various other communities and indegenous residents. GECCI remains committed to supporting Ebenebe and similar communities on their journey toward a sustainable and climate-resilient future.
                                             

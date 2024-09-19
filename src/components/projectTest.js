@@ -8,6 +8,7 @@ import './projectTest.css';
 class ProjectTest extends Component {
     render() {
         return (
+            // FIXES: ADD role= 'list' TO UL, ADD role = 'listitem' TO LI TAGS
             <div className="gecci-main-projects">
                 <h4 className='heading text-green'>OUR PROJECTS</h4>
                 <div className="projectContainer">

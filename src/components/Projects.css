@@ -27,6 +27,14 @@
     background-image:url(../img/WorldEarthDay2024/WED24-5.jpg);
 }
 
+.blog-hero{
+    background-image:url(../img/hero/hero.jpg);
+}
+
+.events-hero{
+    background-image:url(../img/hero/event-hero.jpg);
+}
+
 /* PROJECT HEROS ENDS */
 
 .gecci-main-projects{
