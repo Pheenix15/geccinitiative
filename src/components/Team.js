@@ -177,6 +177,8 @@ const Team = () => {
                 <div className="ad-container">
                     <h3 className='heading '>Advisory Board</h3>
                     <div className="team-members">
+
+                        {/* ADISOORY BOARD 1 */}
                         <div className="ad-board ad-board-1">
                             <div className="card">
                                 <div className="image-content">
@@ -230,6 +232,7 @@ const Team = () => {
                             </div>
                         </div>
 
+                        {/* ADISOORY BOARD 2 */}
                         <div className="ad-board ad-board-2">
                             <div className="card">
                                 <div className="image-content">
@@ -273,6 +276,51 @@ const Team = () => {
                             </div>
                         </div>
 
+                        {/* ADISOORY BOARD 3 */}
+                        <div className="ad-board ad-board-3">
+                            <div className="card">
+                                <div className="image-content">
+                                    <span className="overlay"></span>
+
+                                    <div className="card-image">
+                                        <img
+                                            src="../img/Ad-board-3.jpg"
+                                            alt="Estrela Matilde Executive Director of Fundação Príncipe"
+                                            className="card-img"
+                                        />
+                                    </div>
+                                </div>
+
+                                <div className="card-content">
+                                    <h4 className="name">Estrela Matilde</h4>
+                                    <p className="description">Executive Director of Fundação Príncipe, Conservation biologist.</p>
+                                    <Button onClick={() => document.getElementById("popup-3").classList.toggle("active-popup")}>
+                                        Read Profile
+                                    </Button>
+                                </div>
+                            </div>
+                            <div className="popup popup-3" id="popup-3">
+                                <div className="popup-overlay"></div>
+                                <div className="popup-content">
+                                    <div className="popup-header">
+                                        <div
+                                            className="popup-close"
+                                            onClick={() => document.getElementById("popup-3").classList.toggle("active-popup")}
+                                        >
+                                            &times;
+                                        </div>
+                                        <h4>Estrela Matilde</h4>
+                                    </div>
+                                    <div className="popup-text">
+                                        <p>
+                                        Estrela Matilde is a Portuguese-Santomean conservation biologist whose life mission has been to change the world, one island at a time. For the past 11 years, she called Príncipe Island her home, dedicating her life to preserving its unique natural heritage. As Executive Director of Fundação Príncipe, a conservation NGO based on Príncipe Island, Estrela spent seven years leading efforts to protect the island’s biodiversity while fostering economic and social development for its local communities. <br />
+                                        In recognition of her outstanding contributions, Estrela received the Terre de Femmes award from the Yves Rocher Foundation in 2018 and, in 2022, was honored with the prestigious Whitley Award, one of the world’s largest conservation prizes, for her work on Príncipe. That same year, she received an Honourable Mention in the Inspiration category of the VISÃO + Grupo Águas de Portugal Green Awards. <br />
+                                        In early 2024, Estrela reached a proud milestone in her career. Having mentored a local leader to take over her position at Fundação Príncipe, she celebrated the moment she realized her organization could thrive without her leadership—a testament to her commitment to sustainable and community-rooted conservation. Now, having moved continents and organizations, Estrela is eager to learn from global peers and continue her work supporting organizations and people in conservation leadership.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
