@@ -39,7 +39,7 @@ const WorldForestDay2022 = () => {
                                     <div className="article-text">
                                         <p className="bold"><span className="bold">Theme:</span>Forest and Sustainable Production and Consumption.</p>
                                         <p>
-                                            In commemoration of IDF, Green Environment and Climate Change Initiative (GECCI) in collaboration with the Department of Forestry and Wildlife, Ministry of Environment Anambra State Nigeria marked the day with a WALK FOR ECOSYSTEM RESTORATION. The activity of the day was a way to create awareness of the importance of all types of forests and their resources to the general public.
+                                            In commemoration of IDF, Green Environment and Climate Change Initiative (GRENCHI) in collaboration with the Department of Forestry and Wildlife, Ministry of Environment Anambra State Nigeria marked the day with a WALK FOR ECOSYSTEM RESTORATION. The activity of the day was a way to create awareness of the importance of all types of forests and their resources to the general public.
                                             <br />
                                             <br />
                                             <span>Forests, a Precious Ecosystem</span><br />

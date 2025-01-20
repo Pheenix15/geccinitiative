@@ -11,15 +11,15 @@ class Header extends Component {
             <div>
                 <header class="header">
                     <div class="slogan">
-                        <p class="RightToLeft">GECCI: Towards a Greener Future; United in Action&nbsp;&nbsp;&nbsp;</p>
-                        <p class="RightToLeft slogan2">GECCI: Towards a Greener Future; United in Action&nbsp;&nbsp;&nbsp;</p>
+                        <p class="RightToLeft">GRENCHI: Towards a Greener Future; United in Action&nbsp;&nbsp;&nbsp;</p>
+                        <p class="RightToLeft slogan2">GRENCHI: Towards a Greener Future; United in Action&nbsp;&nbsp;&nbsp;</p>
                     </div>
                     
                     <div class="header-icons">
-                        <Link target="_blank" to="https://www.facebook.com/GreenEnvironmentandClimateChangeInitiative/"><i class="fab fa-facebook-f" style={{color: "var(--mainWhite)"}}></i></Link>
-                        <Link target="_blank" to="https://www.linkedin.com/company/green-environment-and-climate-change-initiative-gecci/"><i class="fab fa-linkedin-in" style={{color: "var(--mainWhite)"}}></i></Link>
-                        <Link target="_blank" to="https://twitter.com/GECC_Initiative"><i class="fab fa-x-twitter" style={{color: "var(--mainWhite)"}}></i></Link>
-                        <Link target="_blank" to="https://www.instagram.com/gecc_initiative/"><i class="fab fa-instagram" style={{color: "var(--mainWhite)"}}></i></Link>
+                        <Link target="_blank" aria-label='facebook Link' to="https://www.facebook.com/GreenEnvironmentandClimateChangeInitiative/"><i aria-hidden='true' class="fab fa-facebook-f" style={{color: "var(--mainWhite)"}}></i></Link>
+                        <Link target="_blank" aria-label='Linkedin Link' to="https://www.linkedin.com/company/green-environment-and-climate-change-initiative-gecci/"><i aria-hidden='true' class="fab fa-linkedin-in" style={{color: "var(--mainWhite)"}}></i></Link>
+                        <Link target="_blank" aria-label='Twitter Link' to="https://twitter.com/GECC_Initiative"><i aria-hidden='true' class="fab fa-x-twitter" style={{color: "var(--mainWhite)"}}></i></Link>
+                        <Link target="_blank" aria-label='Instagram Link' to="https://www.instagram.com/gecc_initiative/"><i aria-hidden='true' class="fab fa-instagram" style={{color: "var(--mainWhite)"}}></i></Link>
                     </div>
                 </header>
             </div>

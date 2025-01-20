@@ -75,9 +75,9 @@ const Home = () => {
                                 <h4>ABOUT US</h4>
                             </div>
                             <p className="txt-content">
-                                Green Environment and Climate Change Initiative (GECCI) is an environmental conservation organization incorporated under the law of the federal republic of Nigeria.
+                                Green Environment and Climate Change Initiative (GRENCHI) is an environmental conservation organization incorporated under the law of the federal republic of Nigeria.
                                 <br />
-                                GECCI's primary goal is to combact climate change and deforestation through initiating projects and programms on the environment in line with the UN Sustainable Development Goals.
+                                GRENCHI's primary goal is to combact climate change and deforestation through initiating projects and programms on the environment in line with the UN Sustainable Development Goals.
                                 <br />
                                 One of our primary strategies in achieving the goal is the use of awareness campaigns to enlighten and inform the general public on environmental issues and the threat they pose to our society.
                             </p>
@@ -93,7 +93,7 @@ const Home = () => {
                                     <div className="tab vision" id="tab-1" style={{display: activeTab === 'tab-1' ? 'block' : 'none'}}>
                                         <div className="tab-inner-content" id="tab-inner-content">
                                             <p>
-                                                GECCI has a vision of a Nigeria where people consciously protect the environment for the present and future generations.
+                                                GRENCHI has a vision of a Nigeria where people consciously protect the environment for the present and future generations.
                                             </p>
                                         </div>
                                     </div>
@@ -109,7 +109,7 @@ const Home = () => {
                                     <div className="tab belief" id="tab-3" style={{display: activeTab === 'tab-3' ? 'block' : 'none'}}>
                                         <div className="tab-inner-content" id="tab-inner-content">
                                             <p>
-                                                GECCI believes in singing the songs of nature in the ears of the people so that in doing the actual work, we dance to the tone of the environment.
+                                                GRENCHI believes in singing the songs of nature in the ears of the people so that in doing the actual work, we dance to the tone of the environment.
                                             </p>
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@ const Home = () => {
                         <div className="project-box">
                             <div className="project-1 project-content">
                                 <a href="./EcosystemRestoration">
-                                    <img src="../img/InternationalDayOfForests/IDF 2.jpg" alt="International Day of Forest" />
+                                    <img src="../img/InternationalDayOfForests/IDF 2.jpg" alt="GREENCHI youths on a walk for Ecosystem Restoration" />
                                     <div className="project-txt">
                                     <p>Ecosystem Restoration</p>
                                     <span className="cto">Click to Open</span>
@@ -134,7 +134,7 @@ const Home = () => {
                 
                             <div className="project-2 project-content">
                                 <a href="./GreenHangout">
-                                    <img src="../img/GreenHangout/project-2.jpg" alt="Green Hangout" />
+                                    <img src="../img/GreenHangout/project-2.jpg" alt="Participants of the Green Hangout engaging in a sprited discussion" />
                                     <div className="project-txt">
                                         <p>Green Hangout 2022</p>
                                         <span className="cto">Click to Open</span>
@@ -144,7 +144,7 @@ const Home = () => {
                 
                             <div className="project-3 project-content">
                                 <a href="./ClimateBootcamp">
-                                    <img src="../img/ClimateBootcamp/project-3.jpg" alt="Climate Bootcamp 2023" />
+                                    <img src="../img/ClimateBootcamp/project-3.jpg" alt="Students of learning environmental painting during the Climate Bootcamp 2023" />
                                 <div className="project-txt">
                                     <p>Climate Bootcamp 2023</p>
                                     <span className="cto">Click to Open</span>
@@ -234,8 +234,8 @@ const Home = () => {
                                         </div>
                     
                                         <div className="card-content">
-                                            <h2 className="name">Mmachukwu Loretta Obimdike</h2>
-                                            <p className="discription">GECCI, Founder/Executive Director</p>
+                                            <h4 className="name">Mmachukwu Loretta Obimdike</h4>
+                                            <p className="discription">GRENCHI, Founder/Executive Director</p>
                                         </div>
                                     </div>
                     
@@ -249,8 +249,8 @@ const Home = () => {
                                         </div>
                     
                                         <div className="card-content">
-                                            <h2 className="name">Dr. Oluropo Apalowo</h2>
-                                            <p className="discription">GECCI Programme Lead</p>
+                                            <h4 className="name">Dr. Oluropo Apalowo</h4>
+                                            <p className="discription">GRENCHI Programme Lead</p>
                                         </div>
                                     </div>
                     
@@ -264,8 +264,8 @@ const Home = () => {
                                         </div>
                     
                                         <div className="card-content">
-                                            <h2 className="name">Enwereuzo Chinemerem Divinefavour</h2>
-                                            <p className="discription">GECCI, Asst. Programme Lead</p>
+                                            <h4 className="name">Enwereuzo Chinemerem Divinefavour</h4>
+                                            <p className="discription">GRENCHI, Asst. Programme Lead</p>
                                         </div>
                                     </div>
                                 </div>
@@ -292,7 +292,7 @@ const Home = () => {
 
                 <section className="News-and-updates-section">
                     <div className="News-and-updates-container">
-                        <h4 className='heading text-green'>NEWS AND UPDATES</h4>
+                        <h5 className='heading text-green'>NEWS AND UPDATES</h5>
                         <div className="News-and-updates">
                             <a href="https://radionigeria.gov.ng/2024/02/16/nigeria-must-be-more-deliberate-in-its-climate-action-in-2024/" target="_blank" rel="noreferrer">
                                 <div className="News-box">

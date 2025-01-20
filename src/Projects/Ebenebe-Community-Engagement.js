@@ -37,7 +37,7 @@ const EbenebeCommunityEngagement = () => {
                                 <h3>Ebenebe Community Engagement</h3>
                                 <div className="article-content">
                                     <div className="article-text">
-                                        <p className="bold">Building Climate Resilience in Ebenebe: A Transformative Workshop by GECCI.</p>
+                                        <p className="bold">Building Climate Resilience in Ebenebe: A Transformative Workshop by GRENCHI.</p>
                                         <p>
                                             Ebenebe is an agrarian community located in Awka North Local Government Area, Anambra State, Nigeria, with a population of 45,897, as recorded in the 2006 Nigerian census. The community is composed of eight villages, each containing several hamlets. One of the notable natural features of Ebenebe is the Nkachu-Ituku Forest Reserve, located in Umuoye village. This 109.67-hectare reserve is officially protected but is currently under a looming threat from development, which calls for urgent action. The community also faces various environmental challenges such as changes in precipitation patterns and other climate-related threats.
                                         </p>

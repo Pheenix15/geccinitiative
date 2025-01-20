@@ -16,7 +16,7 @@ const Team = () => {
             </section>
             <div className='team-page-container'>
                 <div className="Team-container">
-                    <h3 className='heading text-green'>GECCI Team</h3>
+                    <h3 className='heading text-green'>GRENCHI Team</h3>
                     <div className="team-members">
                         <div className="ad-board ad-board-1">
                             <div className="card">
@@ -26,7 +26,7 @@ const Team = () => {
                                     <div className="card-image">
                                         <img
                                             src="img/Team1.png"
-                                            alt="GECCI, Founder/Executive Director Mrs Mmachukwu Loretta Obimdike"
+                                            alt="GRENCHI, Founder/Executive Director Mrs Mmachukwu Loretta Obimdike"
                                             className="card-img"
                                         />
                                     </div>
@@ -34,7 +34,7 @@ const Team = () => {
 
                                 <div className="card-content">
                                     <h4 className="name">Mmachukwu Loretta Obimdike</h4>
-                                    <p className="description">GECCI, Founder/Executive Director</p>
+                                    <p className="description">GRENCHI, Founder/Executive Director</p>
                                     <Button onClick={() => document.getElementById("Tmpopup-1").classList.toggle("active-popup")}>
                                         Read Profile
                                     </Button>
@@ -60,7 +60,7 @@ const Team = () => {
                                                 under the category of Environmental Educator of the Year 2023.
                                                 <br />
                                                 Mmachukwu is the Founder and Executive Director of the Green Environment and Climate
-                                                Change Initiative (GECCI). Her passion for nature and the environment was sparked working
+                                                Change Initiative (GRENCHI). Her passion for nature and the environment was sparked working
                                                 with an NGO contracted by Enugu State Nigerian Erosion and Watershed Management Project
                                                 (NEWMAP) as the Environmental Officer.
                                                 <br />
@@ -93,7 +93,7 @@ const Team = () => {
 
                                 <div className="card-content">
                                     <h4 className="name">Dr. Oluropo Apalowo</h4>
-                                    <p className="description">GECCI Programme Lead</p>
+                                    <p className="description">GRENCHI Programme Lead</p>
                                     <Button onClick={() => document.getElementById("Tmpopup-2").classList.toggle("active-popup")}>
                                         Read Profile
                                     </Button>
@@ -117,7 +117,7 @@ const Team = () => {
                                             <br />
                                             As an environmental advocate, He has led many awareness campaigns in schools, government institutions, and marketplaces, sensitizing people on the effect of climate change, the importance of tree planting, and the conservation of the environment. Presently, his focus is on leading awareness campaigns in Anambra State, Nigeria which is regarded as the erosion capital of the country. He is also involved in many projects aimed at preventing flooding across the state. He has a passion for grooming and mentoring students in primary and secondary school on how to be a campaigner for climate action among their peers (Peer Educator).
                                             <br />
-                                            He is the Program Officer for Green Environment and Climate Change Initiative (GECCI), a Non-profit Organization established to create awareness about Climate Change in Nigeria. He is also a member of the Horticultural Society of Nigeria (HORTSON), Nigerian Society for Plant Protection (NSPP), Nigerian Society for Plant Virology (NSPV), and Nigerian Society of Nematologists (NISON), among others.
+                                            He is the Program Officer for Green Environment and Climate Change Initiative (GRENCHI), a Non-profit Organization established to create awareness about Climate Change in Nigeria. He is also a member of the Horticultural Society of Nigeria (HORTSON), Nigerian Society for Plant Protection (NSPP), Nigerian Society for Plant Virology (NSPV), and Nigerian Society of Nematologists (NISON), among others.
                                             <br />
                                             He has published scientific articles in both local and international journals. He love traveling, meeting people, researching, and football
                                             </p>
@@ -143,7 +143,7 @@ const Team = () => {
 
                                 <div className="card-content">
                                     <h4 className="name">Enwereuzo Chinemerem Divinefavour</h4>
-                                    <p className="description">GECCI, Asst. Programme Lead</p>
+                                    <p className="description">GRENCHI, Asst. Programme Lead</p>
                                     <Button onClick={() => document.getElementById("Tmpopup-3").classList.toggle("active-popup")}>
                                         Read Profile
                                     </Button>
@@ -163,7 +163,7 @@ const Team = () => {
                                         </div>
                                         <div className="popup-text">
                                             <p>
-                                            Enwereuzo Chinemerem Divinefavour is a visionary environmentalist, and a sustainability advocate. Chinemerem dedicates his time to voluntary service, promoting sustainability education, and fostering change. Currently, he serves as the Assistant Project Lead for the NGO, Green Environment and Climate Change Initiative-GECCI.
+                                            Enwereuzo Chinemerem Divinefavour is a visionary environmentalist, and a sustainability advocate. Chinemerem dedicates his time to voluntary service, promoting sustainability education, and fostering change. Currently, he serves as the Assistant Project Lead for the NGO, Green Environment and Climate Change Initiative-GRENCHI.
                                             </p>
                                         </div>
                                     </div>
@@ -293,7 +293,7 @@ const Team = () => {
 
                                 <div className="card-content">
                                     <h4 className="name">Estrela Matilde</h4>
-                                    <p className="description">Executive Director of Fundação Príncipe, Conservation biologist.</p>
+                                    <p className="description">A Portuguese-Santomean Conservation Biologist.</p>
                                     <Button onClick={() => document.getElementById("popup-3").classList.toggle("active-popup")}>
                                         Read Profile
                                     </Button>
@@ -313,9 +313,9 @@ const Team = () => {
                                     </div>
                                     <div className="popup-text">
                                         <p>
-                                        Estrela Matilde is a Portuguese-Santomean conservation biologist whose life mission has been to change the world, one island at a time. For the past 11 years, she called Príncipe Island her home, dedicating her life to preserving its unique natural heritage. As Executive Director of Fundação Príncipe, a conservation NGO based on Príncipe Island, Estrela spent seven years leading efforts to protect the island’s biodiversity while fostering economic and social development for its local communities. <br />
+                                        Estrela Matilde is a Portuguese-Santomean conservation biologist whose life mission has been to change the world, one island at a time. For the past 11 years, she called Príncipe Island her home, dedicating her life to preserving its unique natural heritage. As Executive Director of Fundação Príncipe, a conservation NGO based on Príncipe Island, Estrela spent seven years leading efforts to protect the island’s biodiversity while fostering economic and social development for its local communities. <br /> 
                                         In recognition of her outstanding contributions, Estrela received the Terre de Femmes award from the Yves Rocher Foundation in 2018 and, in 2022, was honored with the prestigious Whitley Award, one of the world’s largest conservation prizes, for her work on Príncipe. That same year, she received an Honourable Mention in the Inspiration category of the VISÃO + Grupo Águas de Portugal Green Awards. <br />
-                                        In early 2024, Estrela reached a proud milestone in her career. Having mentored a local leader to take over her position at Fundação Príncipe, she celebrated the moment she realized her organization could thrive without her leadership—a testament to her commitment to sustainable and community-rooted conservation. Now, having moved continents and organizations, Estrela is eager to learn from global peers and continue her work supporting organizations and people in conservation leadership.
+                                        In early 2024, Estrela reached a proud milestone in her career. Having mentored a local leader to take over her position at Fundação Príncipe, she celebrated the moment she realized her organization could thrive without her leadership—a testament to her commitment to sustainable and community-rooted conservation. Now, having moved continents and organizations, Estrela is eager to learn from global peers and continue her work supporting organizations and people in conservation leadership. 
                                         </p>
                                     </div>
                                 </div>

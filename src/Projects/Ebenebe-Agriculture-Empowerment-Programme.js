@@ -60,7 +60,7 @@ const EbenebeAgriculturalEmpowermentProgramme = () => {
                                         <div class="swiper">
                                             <div class="slide-content">
                                                 <div class="image-list swiper-wrapper">
-                                                    <img src="../img/EAEP/EAEP-2.jpg" class="sliding-img swiper-slide" alt="GECCI Team holding the banner of the agriculture empowerment programme with Dr. Ropo siting on bags of harvested cassava" />
+                                                    <img src="../img/EAEP/EAEP-2.jpg" class="sliding-img swiper-slide" alt="GRENCHI Team holding the banner of the agriculture empowerment programme with Dr. Ropo siting on bags of harvested cassava" />
                                                     <img src="../img/EAEP/EAEP-3.jpg" class="sliding-img swiper-slide" alt="Ebenebe farmers with heaps of cassava sticks ready for planting" />
                                                     <img src="../img/EAEP/EAEP-4.jpg" class="sliding-img swiper-slide" alt="Ebenebe farmers with heaps of cassava sticks ready for planting" />
                                                     <img src="../img/EAEP/EAEP-5.jpg" class="sliding-img swiper-slide" alt="Divinefavour speaking to the farmers" />

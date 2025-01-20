@@ -14,7 +14,7 @@ class Footer extends Component {
                     <div className="footer-logo">
                         <Link to='/'><img src={logo} className='logo gecci-logo' alt='logo'/></Link>
                     </div>
-                    <p>Green Environment and Climate Change Initiative (GECCI) is an environmental conservation organization incorporated under the law of the federal republic of Nigeria.</p>
+                    <p>Green Environment and Climate Change Initiative (GRENCHI) is an environmental conservation organization incorporated under the law of the federal republic of Nigeria.</p>
                     </div>
                 </div>
                 <div className="footer-contact">
@@ -33,10 +33,10 @@ class Footer extends Component {
                             <a href="tel:+2349022842838"><p>(+234) 09022842838</p></a>
                         </div>
                         <div className="contact-info-content social-media-icons">
-                            <a target="_blank" rel="noreferrer" href="https://www.facebook.com/GreenEnvironmentandClimateChangeInitiative/"><i className="fab fa-facebook-f" style={{color: 'var(--mainGreen)'}}></i></a>
-                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/green-environment-and-climate-change-initiative-gecci/"><i className="fab fa-linkedin-in" style={{color: 'var(--mainGreen)'}}></i></a>
-                            <a target="_blank" rel="noreferrer" href="https://twitter.com/GECC_Initiative"><i className="fab fa-x-twitter" style={{color: 'var(--mainGreen)'}}></i></a>
-                            <a target="_blank" rel="noreferrer" href="https://www.instagram.com/gecc_initiative/"><i className="fab fa-instagram" style={{color: 'var(--mainGreen)'}}></i></a>
+                            <a aria-label='Facebook Link' target="_blank" rel="noreferrer" href="https://www.facebook.com/GreenEnvironmentandClimateChangeInitiative/"><i aria-hidden='true' className="fab fa-facebook-f" style={{color: 'var(--mainGreen)'}}></i></a>
+                            <a aria-label='Linkedin Link' target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/green-environment-and-climate-change-initiative-gecci/"><i aria-hidden='true' className="fab fa-linkedin-in" style={{color: 'var(--mainGreen)'}}></i></a>
+                            <a aria-label='Twitter Link' target="_blank" rel="noreferrer" href="https://twitter.com/GECC_Initiative"><i aria-hidden='true' className="fab fa-x-twitter" style={{color: 'var(--mainGreen)'}}></i></a>
+                            <a aria-label='Instagram Link' target="_blank" rel="noreferrer" href="https://www.instagram.com/gecc_initiative/"><i aria-hidden='true' className="fab fa-instagram" style={{color: 'var(--mainGreen)'}}></i></a>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ class Footer extends Component {
                 </div>
             </div>
             <div className="copyright">
-                <p>&copy; geccinitiative.org 2024.</p>
+                <p>&copy; grenchi.org {new Date().getFullYear()}.</p>
             </div>
         </footer>
         );

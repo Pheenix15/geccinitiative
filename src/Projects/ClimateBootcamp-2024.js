@@ -38,7 +38,7 @@ const ClimateBootcamp2024 = () => {
                                 <div className="article-content">
                                     <div className="article-text">
                                         <p>
-                                            On July 24, 2024, the Climate Bootcamp 2.0, an environmental education event organized by the Green Environment and Climate Change Initiative (GECCI) with support from The Movement Trust and partnership with the Nigeria Conservation Foundation (NCF), brought together 73 students from seven secondary schools in Awka at the Ekwueme Centre for Multi-Disciplinary Research, Nnamdi Azikiwe University. This event aimed to inspire and equip young environmental leaders with practical knowledge and skills to drive environmental actions. The bootcamp empowered students to participate actively in environmental conservation and sustainable development. Throughout the day, students engaged in workshops, competitions, and interactive sessions designed to deepen their understanding of climate action and environmental stewardship. They showcased innovative projects, from plastic waste management to rainwater harvesting, demonstrating their commitment to practical solutions for local environmental challenges.
+                                            On July 24, 2024, the Climate Bootcamp 2.0, an environmental education event organized by the Green Environment and Climate Change Initiative (GRENCHI) with support from The Movement Trust and partnership with the Nigeria Conservation Foundation (NCF), brought together 73 students from seven secondary schools in Awka at the Ekwueme Centre for Multi-Disciplinary Research, Nnamdi Azikiwe University. This event aimed to inspire and equip young environmental leaders with practical knowledge and skills to drive environmental actions. The bootcamp empowered students to participate actively in environmental conservation and sustainable development. Throughout the day, students engaged in workshops, competitions, and interactive sessions designed to deepen their understanding of climate action and environmental stewardship. They showcased innovative projects, from plastic waste management to rainwater harvesting, demonstrating their commitment to practical solutions for local environmental challenges.
                                         </p>
                                         <h4 className="bold">Highlights of the Bootcamp 2.0</h4>
                                         <div className="article-video">
@@ -66,7 +66,7 @@ const ClimateBootcamp2024 = () => {
                                         </p>
 
                                         <div className="article-img">
-                                            <img src="./img/Climate-Bootcamp-2024/CB-2024-6.jpg" alt="The three Facilatators of the most Dedicated school with their GECCI contact persons, Mrs.Ngozi Ogamba and Mr.Divinefavour Enwereuzo" />
+                                            <img src="./img/Climate-Bootcamp-2024/CB-2024-6.jpg" alt="The three Facilatators of the most Dedicated school with their GRENCHI contact persons, Mrs.Ngozi Ogamba and Mr.Divinefavour Enwereuzo" />
                                         </div>
 
                                         <span className="bold">Sustainable Practices</span>
@@ -75,7 +75,7 @@ const ClimateBootcamp2024 = () => {
                                             The event prioritized sustainability, using reusable tableware, glass bottles, and strategically placed water dispensers with paper cups. These practices showcased our commitment to environmental conservation.
                                         </p>
                                         <span className="bold">Looking Forward</span>
-                                        <p>GECCI is excited to continue this journey of fostering young environmental champions. Plans for the Climate Bootcamp 3.0 are already underway, promising even more innovative and engaging experiences.</p>
+                                        <p>GRENCHI is excited to continue this journey of fostering young environmental champions. Plans for the Climate Bootcamp 3.0 are already underway, promising even more innovative and engaging experiences.</p>
                                         <span className="bold">Get Involved</span>
                                         <p>Join us in our mission to empower the next generation of environmental leaders. Learn more about our initiatives and discover how you can contribute to a sustainable future.</p>
                                         <h4><a href="./Contact" style= {{color: 'rgb(13, 80, 9, 1)', textDecoration: 'none'}} >Contact Us</a></h4>
@@ -90,7 +90,7 @@ const ClimateBootcamp2024 = () => {
                                                     <img src="../img/Climate-Bootcamp-2024/CB-2024-2.jpg" className="sliding-img swiper-slide" alt="The third runner-up of the Environmental-STEM competetion holding an enlarged cheque of seventy thousand Naira" />
                                                     <img src="../img/Climate-Bootcamp-2024/CB-2024-3.jpg" className="sliding-img swiper-slide" alt="The winners of the Environmental-STEM competetion holding an enlarged cheque of One hundred thousand Naira" />
                                                     <img src="../img/Climate-Bootcamp-2024/CB-2024-4.jpg" className="sliding-img swiper-slide" alt="The second runner-up of the Environmental-STEM competetion holding an enlarged cheque of Eighty thousand naira" />
-                                                    <img src="../img/Climate-Bootcamp-2024/CB-2024-5.jpg" className="sliding-img swiper-slide" alt="Winners of the speeling bee and quiz competetion holding their prize. On their right is Dr. Ropo, GECCI's Programme lead and on their left is Mrs. Funmilayo Adeniyi" />
+                                                    <img src="../img/Climate-Bootcamp-2024/CB-2024-5.jpg" className="sliding-img swiper-slide" alt="Winners of the speeling bee and quiz competetion holding their prize. On their right is Dr. Ropo, GRENCHI's Programme lead and on their left is Mrs. Funmilayo Adeniyi" />
                                                     <img src="../img/Climate-Bootcamp-2024/CB-2024-6.jpg" className="sliding-img swiper-slide" alt="The three Facilatators of the most Dedicated school posing for a photograph with their GECCI contact persons, Mrs.Ngozi Ogamba and Mr.Divinefavour Enwereuzo" />
                                                     <img src="../img/Climate-Bootcamp-2024/CB-2024-7.jpg" className="sliding-img swiper-slide" alt="Dr. Ropo with the winning students and Mrs. Onwuzulike" />
                                                 </div>

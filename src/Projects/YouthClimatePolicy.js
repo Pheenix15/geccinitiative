@@ -56,7 +56,7 @@ const YouthClimatePolicy = () => {
                                                 <div className="image-list swiper-wrapper">
                                                     <img src="../img/YCPT/ycpt-2.jpg" className="sliding-img swiper-slide" alt="Youth brainstoming session" />
                                                     <img src="../img/YCPT/ycpt-3.jpg" className="sliding-img swiper-slide" alt="The director of Forestry, Anambra state ministry of Environment speaking at the event" />
-                                                    <img src="../img/YCPT/ycpt-4.jpg" className="sliding-img swiper-slide" alt="Team GECCI" />
+                                                    <img src="../img/YCPT/ycpt-4.jpg" className="sliding-img swiper-slide" alt="Team GRENCHI" />
                                                 </div>
                                             </div>
                                             <div className="swiper-button-next swiper-btn"></div>

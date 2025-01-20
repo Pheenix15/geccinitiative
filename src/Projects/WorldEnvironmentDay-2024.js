@@ -39,7 +39,7 @@ const WorldEnvironmentDay2024 = () => {
                                     <div className="article-text">
                                         <p className="theme"><span className="bold">Theme:</span>Land Restoration, Desertification and Drought Resilience.</p>
                                         <p>
-                                            As we mark the World Environment Day today, June 5th, 2024, the focus is on the critical issues of land restoration, desertification, and drought. These challenges haven proven not to be just environmental concerns; they are existential threats that demand immediate attention and action. At Green Environment and Climate Change Initiative - GECCI , we believe in the power of collective action to protect and restore our planet for future generations.   
+                                            As we mark the World Environment Day today, June 5th, 2024, the focus is on the critical issues of land restoration, desertification, and drought. These challenges haven proven not to be just environmental concerns; they are existential threats that demand immediate attention and action. At Green Environment and Climate Change Initiative - GRENCHI , we believe in the power of collective action to protect and restore our planet for future generations.   
                                         </p>
 
                                         <div className="article-video">
@@ -62,9 +62,9 @@ const WorldEnvironmentDay2024 = () => {
                                         <div className="swiper">
                                             <div className="slide-content">
                                                 <div className="image-list swiper-wrapper">
-                                                    <img src="../img/WorldEnvironmentDay24/WED24-2.jpg" className="sliding-img swiper-slide" alt="GECCI's assistant programme lead Enwereuzo Divinefavour speaking during the workshop" />
-                                                    <img src="../img/WorldEnvironmentDay24/WED24-3.jpg" className="sliding-img swiper-slide" alt="The club facilitators, GECCI's assistant programme lead, with the student holding their craft during the workshop" />
-                                                    <img src="../img/WorldEnvironmentDay24/WED24-5.jpg" className="sliding-img swiper-slide" alt="The club facilitators, GECCI's assistant programme lead with the student during the workshop" />
+                                                    <img src="../img/WorldEnvironmentDay24/WED24-2.jpg" className="sliding-img swiper-slide" alt="GRENCHI's assistant programme lead Enwereuzo Divinefavour speaking during the workshop" />
+                                                    <img src="../img/WorldEnvironmentDay24/WED24-3.jpg" className="sliding-img swiper-slide" alt="The club facilitators, GRENCHI's assistant programme lead, with the student holding their craft during the workshop" />
+                                                    <img src="../img/WorldEnvironmentDay24/WED24-5.jpg" className="sliding-img swiper-slide" alt="The club facilitators, GRENCHI's assistant programme lead with the student during the workshop" />
                                                 </div>
                                             </div>
                                             <div className="swiper-button-next swiper-btn"></div>

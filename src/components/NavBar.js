@@ -121,11 +121,15 @@ class NavBar extends Component {
                                 </ul>
                             </li>
                             <li><Link to="/Contact">Contact</Link></li>
-                            <button type="button" className="nav-btn nav-donate-btn">
-                                <a href="https://flutterwave.com/donate/fopgfyqstegl" target="_blank" rel="noopener noreferrer">
-                                    <span aria-hidden="true"></span>Donate
-                                </a>
-                            </button>
+                            {/* DONATE BUTTON */}
+                            <li style={{ borderBottom: "none" }}>
+                                <button type="button" className="nav-btn nav-donate-btn">
+                                    <a href="https://flutterwave.com/donate/fopgfyqstegl" target="_blank" rel="noopener noreferrer">
+                                        <span aria-hidden="true"></span>Donate
+                                    </a>
+                                </button>
+                            </li>
+                            
                         </ul>
                     </nav>
                     <div className="header-right">
